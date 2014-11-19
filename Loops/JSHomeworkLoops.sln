@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.PrintAllNumbersFromOneToN", "01. PrintAllNumbersFromOneToN\_01.PrintAllNumbersFromOneToN.csproj", "{0F18EA9C-D1CD-4767-A5C4-9B4C7BBB6A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.PrintAllNumbersFrom1ToNNotDivisibleBy3And7", "02. PrintAllNumbersFrom1ToNNotDivisibleBy3And7\_02.PrintAllNumbersFrom1ToNNotDivisibleBy3And7.csproj", "{4279BA6D-6EF9-47A4-BDC4-62F26449DDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.MaxAndMinNumberFromASequence", "03. MaxAndMinNumberFromASequence\_03.MaxAndMinNumberFromASequence.csproj", "{3413A613-57EB-4FEE-A4FE-9F01B761FCBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04.FindLexicographicallySmallestAndLargestProperty", "04. FindLexicographicallySmallestAndLargestProperty\_04.FindLexicographicallySmallestAndLargestProperty.csproj", "{1B19F4A1-0542-4809-B159-AB2A8C6DB442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F18EA9C-D1CD-4767-A5C4-9B4C7BBB6A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F18EA9C-D1CD-4767-A5C4-9B4C7BBB6A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F18EA9C-D1CD-4767-A5C4-9B4C7BBB6A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F18EA9C-D1CD-4767-A5C4-9B4C7BBB6A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4279BA6D-6EF9-47A4-BDC4-62F26449DDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4279BA6D-6EF9-47A4-BDC4-62F26449DDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4279BA6D-6EF9-47A4-BDC4-62F26449DDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4279BA6D-6EF9-47A4-BDC4-62F26449DDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3413A613-57EB-4FEE-A4FE-9F01B761FCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3413A613-57EB-4FEE-A4FE-9F01B761FCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3413A613-57EB-4FEE-A4FE-9F01B761FCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3413A613-57EB-4FEE-A4FE-9F01B761FCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B19F4A1-0542-4809-B159-AB2A8C6DB442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B19F4A1-0542-4809-B159-AB2A8C6DB442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B19F4A1-0542-4809-B159-AB2A8C6DB442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B19F4A1-0542-4809-B159-AB2A8C6DB442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

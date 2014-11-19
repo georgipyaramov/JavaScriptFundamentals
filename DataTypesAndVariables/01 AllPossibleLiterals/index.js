@@ -1,0 +1,10 @@
+﻿var integerNumber = 3;
+var floatingPointNumber = 3.5;
+var string = 'Some String';
+var undefinedVariable = undefined;
+var nullVariable = null;
+console.log(integerNumber);
+console.log(floatingPointNumber);
+console.log(string);
+console.log(undefinedVariable);
+console.log(nullVariable);
